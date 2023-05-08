@@ -2,6 +2,8 @@
 
 This project is a scaled-down version of a live blogging platform. The implementation aims to be straightforward and devoid of unnecessary dependencies. A blog website allows users to opine their thoughts  and comment on anything and everything.  
 
+##Live Link :
+https://silvia003.github.io/Blog-Website/
 ## Specifications of this website:
 
 * Have a blog-specific editor.
